@@ -1,5 +1,6 @@
 # Hello---world
 iniciando no github
+
 Olá pessoal!, sou novo no ramo da programação e também novo no gitH.
 E espero estar apredendo muito aqui com todos, quero me especializar a fundo em programação em Python.
 Explorando todos os lados da programação que me possa ser absorvido, espero a ajuda de todos, 
